@@ -17,4 +17,4 @@ curl -s -o ~/x https://raw.githubusercontent.com/Samuraidepo/excord2.0/refs/head
 ## credits
 **olegos2** - author of mobox<br>
 **huggo2** - developer of mobox<br>
-**abyzzdead** - owner of excord2.0<br>
+**abyzzdead and itsmeportproton** - owner of excord2.0<br>
