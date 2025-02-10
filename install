@@ -66,7 +66,7 @@ function wget-git-q {
 echo "Updating package manager"
 mkdir -p $PREFIX/glibc/opt/package-manager/installed
 
-echo "PRIVATE_TOKEN=glpat-9Nh5EHSNbiYz_93mi29q102b7a653851e898f961aa85
+echo "PRIVATE_TOKEN=glpat-6LE7R9PQ7zb6zsx4x3be
 PROJECT_ID=64704412">$PREFIX/glibc/opt/package-manager/token
 
 . $PREFIX/glibc/opt/package-manager/token
