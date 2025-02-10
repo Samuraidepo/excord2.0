@@ -11,7 +11,7 @@ echo "   /'    )  \  /   /'    )--/'    )--/'    )--)'    )--/'    /      ";
 echo " /(___,/'    \'   '---,   /'       /'    /' /'       /'    /        ";
 echo "(__________/' \_(___,/   (___,/   (___,/' /'        (___,/(__        ";
 echo "                                                                     ";
-echo " by itsmeportproton! // mobox made by: Huggo2 && olegos2             ";
+echo " by itsmeportproton and SamuraiDepo // mobox made by: Huggo2 && olegos2             ";
 echo "                                                                     ";
 
 
